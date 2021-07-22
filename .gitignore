@@ -114,4 +114,4 @@ dmypy.json
 .pyre/
 
 ### CUSTOM ###
-token.0
+/data/token.0
